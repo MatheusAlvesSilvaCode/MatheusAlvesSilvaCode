@@ -1,5 +1,5 @@
 ## Olá, eu sou Matheus!
-## Estudando de Engenharia Informática. 
+## Estudante de Engenharia Informática. 
 ## Formado em Desenvolvimento de Software / Dispositivos móveis.
 
 <div align="center">
