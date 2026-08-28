@@ -3,8 +3,8 @@
 ## Formado em Desenvolvimento de Software / Dispositivos móveis.
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvesSilvaCode&show_icons=true&theme=dark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvesSilvaCode&layout=compact&theme=dark" />
+  <img height="150" src="https://github-readme-stats-eight.vercel.app/api?username=MatheusAlvesSilvaCode&show_icons=true&theme=dark" alt="Matheus Stats" />
+  <img height="150" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MatheusAlvesSilvaCode&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 <br>
