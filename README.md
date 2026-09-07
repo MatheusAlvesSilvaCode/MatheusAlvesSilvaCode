@@ -1,10 +1,20 @@
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+seja+bem-vindo%2C+eu+me+chamo+Matheus!" alt="Typing SVG" />
+</p>
+
 ## Olá, eu sou Matheus!
 ## Estudante de Engenharia Informática. 
 ## Formado em Desenvolvimento de Software / Dispositivos móveis.
+
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=MatheusAlvesSilvaCode&show_icons=true&theme=dark" alt="Matheus Stats" />
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusAlvesSilvaCode&layout=compact&theme=dark" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAlvesSilvaCode&theme=dark" alt="Streak Stats" />
+</p>
+
 <br>
 <p align="center">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
