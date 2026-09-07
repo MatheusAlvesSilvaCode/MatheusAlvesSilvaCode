@@ -1,14 +1,11 @@
 ## Olá, eu sou Matheus!
 ## Estudante de Engenharia Informática. 
 ## Formado em Desenvolvimento de Software / Dispositivos móveis.
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats-eight.vercel.app/api?username=MatheusAlvesSilvaCode&show_icons=true&theme=dark" alt="Matheus Stats" />
-  <img height="150" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=MatheusAlvesSilvaCode&layout=compact&theme=dark" alt="Top Langs" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=MatheusAlvesSilvaCode&show_icons=true&theme=dark" alt="Matheus Stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusAlvesSilvaCode&layout=compact&theme=dark" alt="Top Langs" />
 </p>
-
 <br>
-
 <p align="center">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
